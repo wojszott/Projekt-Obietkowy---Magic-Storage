@@ -22,7 +22,6 @@ Base - CLI wyświetla listę kategori
 Podstawą projektu jest klasa bazowa ConsoleElement, z której dziedziczą dwie gałęzie:  
 ConsoleItem – reprezentuje przedmioty (ekwipunek)  
 ConsoleInfo – reprezentuje informacje (np. mapy, zadania)  
-![image](https://github.com/user-attachments/assets/e902bbe3-f85d-47a0-bd0d-ece5bdc26db1)
 ### Przykładowe klasy dziedziczące:
 Weapons – proste przedmioty  
 Quiver – liczba strzał  
