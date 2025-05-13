@@ -63,4 +63,4 @@ private:
 ```
 
 ### Status projektu:
-Projetk ukończony, lecz wymaga dopracowania błędów związanych z interakcją z CLI
+Projetk ukończony, lecz wymaga dopracowania błędów związanych z interakcją użytkownika z CLI
